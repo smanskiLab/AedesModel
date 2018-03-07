@@ -4,9 +4,13 @@ One Paragraph of project description goes here.
 
 ### Prerequisites
 Python 3
+
 [Mesa: Agent-based modeling in Python 3+](https://github.com/projectmesa/mesa)
+
 matplotlib
+
 pandas
+
 ....etc
 
 ## Running an experiment

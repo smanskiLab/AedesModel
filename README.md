@@ -19,7 +19,7 @@ Execution of the model may be carried out within an IDE such as Spyder.
 
 ## Authors
 
-* **Michael J. Smanski** - *Initial work*
+* **Michael J. Smanski**
 
 ## License
 
